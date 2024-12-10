@@ -3,7 +3,7 @@ name: Test PR Changes that is without hardcoded AGENT_TOOLSDIRECTORY on macOS
 on: 
   push:
     branches:
-      - test-708
+      - main
   workflow_dispatch:
     
 jobs:
